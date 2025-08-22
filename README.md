@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**estebanaraneda/estebanaraneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Esteban Araneda
 
-Here are some ideas to get you started:
+🎓 De formación soy **Astrónomo** de la Universidad de Chile) y actualmente  me encuentro estudiando en el Mágister en ciencia de datos de la misma universidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Mi interés principal está en **Data Science**, especialmente en el uso de métodos de Machine Learning y Deep learning para resolver problemas complejos.
+
+---
+
+## 🚀 Tecnologías y herramientas
+
+- **Lenguajes**: Python, SQL, R, LaTeX
+- **Machine Learning**: Scikit-learn, PyTorch, XGBoost
+- **Análisis de datos**: Pandas, NumPy, SciPy
+- **Visualización**: Matplotlib, Seaborn, Plotly
+- **Herramientas**: Git, Jupyter Notebooks, Quarto
